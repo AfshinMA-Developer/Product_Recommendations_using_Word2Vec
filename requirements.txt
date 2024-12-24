@@ -1,0 +1,9 @@
+numpy 
+pandas 
+openpyxl 
+tqdm 
+gensim 
+matplotlib 
+seaborn 
+plotly 
+umap-learn
