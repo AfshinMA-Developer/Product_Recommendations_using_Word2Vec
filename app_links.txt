@@ -1,0 +1,4 @@
+Github:
+https://github.com/AfshinMA-Developer/Product_Recommendations_using_Word2Vec.git
+Huggingface:
+Streamlit:
